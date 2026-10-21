@@ -2,7 +2,7 @@
 
 An end-to-end analysis of **2.26 million consumer loans** issued by Lending Club from 2007 to 2018. I cleaned the raw data in SQL (SQLite), built summary views of portfolio risk, and visualized the results in a Tableau dashboard.
 
-**Interactive dashboard:** [View on Tableau Public]([[ADD-YOUR-TABLEAU-LINK-HERE](https://public.tableau.com/app/profile/prabhanjan.balakrishnan/viz/LendingClubCreditRiskDashboard_17925517664780/LendingClubPortfolioCreditRiskandPerformance)]
+**Interactive dashboard:** [View on Tableau Public](https://public.tableau.com/app/profile/prabhanjan.balakrishnan/viz/LendingClubCreditRiskDashboard_17925517664780/LendingClubPortfolioCreditRiskandPerformance)
 
 ## Key findings
 
